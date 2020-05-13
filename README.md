@@ -6,8 +6,10 @@ Python program to translate natural language to morse code and morse code to nat
 
 Python3 installed on your pc
 
-`$ sudo apt-get update`
-`$ sudo apt-get install python3.6`
+```
+$ sudo apt-get update
+$ sudo apt-get install python3.6
+```
 
 ### Running
 
